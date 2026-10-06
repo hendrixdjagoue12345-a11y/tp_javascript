@@ -1,3 +1,6 @@
 let points = 0;
 let tours = 0;
+while (points < 10) 
+    { points += 3; tours++; }
+console.log(tours, points);
 // Complétez ici.
